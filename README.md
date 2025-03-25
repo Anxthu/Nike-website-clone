@@ -1,6 +1,8 @@
 # Nike-website-clone
 Nike E- commerce website using Html CSS and JavaScript 
 
+#### [See it Live](https://anxthu.github.io/Nike-website-clone/)
+
 ## 📌 Overview
 This project is a **Nike website clone** built using modern web technologies to replicate the design, layout, and functionality of the official Nike website. The aim is to enhance front-end development skills by recreating a real-world e-commerce website.
 
